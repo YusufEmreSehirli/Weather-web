@@ -12,5 +12,5 @@ Javascript ile dinamik bir tasarım sağlandı
 
 <h1> EKRAN GÖRÜNÜMÜ</h1>
 
-![](weather.png)
-![](havaant.png)
+![](weather.jpg)
+![](havaant.jpg)
